@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+img:hover {
+    background-color: red;
+    opacity: 0.3;
+    z-index: 2;
+}
